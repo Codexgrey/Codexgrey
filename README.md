@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Codexgrey.
-- 👀 I’m interested in Full Stack Software Development and Machine Learning.
-- 💞️ I’m looking to work & collaborate on anything that furthers my knowledge and understanding of Software and Machine Learning Engineering.
+- 👀 I’m interested in Product Design, Software Engineering and Data Science.
+- 💞️ I’m looking to work & collaborate on anything that furthers my knowledge and understanding of Software Design, Engineering and Data.
 - 📫 How to reach me on;
 - Twitter @Codexgrey, 
 - Email - thecodexgrey@gmail.com, 
