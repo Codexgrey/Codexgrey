@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Codexgrey.
-- 👀 I’m interested in Computer Engineering.
-- 💞️ I’m looking to work & collaborate on anything that furthers my knowledge and understanding of Computer and software Engineering, as well as design.
+- 👀 I’m interested in DevOPs, AI and ML Engineering.
+- 💞️ I’m looking to work & collaborate on anything that furthers my knowledge and understanding of Software Engineering, as well as design.
 - 📫 How to reach me on;
 - Twitter @Codexgrey, 
 - Email - thecodexgrey@gmail.com, 
